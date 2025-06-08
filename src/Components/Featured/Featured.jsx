@@ -9,7 +9,6 @@ import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxi
 function Featured() {
   return (
     <div className="featured">
-
       <div className="featuredpiechart">
         <Piechart
           data={data}
